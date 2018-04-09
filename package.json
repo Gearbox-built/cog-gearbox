@@ -1,0 +1,13 @@
+{
+  "name": "cog-gearbox",
+  "version": "0.0.1",
+  "description": "Cog module for Gearbox",
+  "global": "false",
+  "files": [
+    "cog-gearbox.sh",
+    "lib/requirements.sh"
+  ],
+  "dependencies": [
+    "gearbox-built/cog-wp"
+  ]
+}
